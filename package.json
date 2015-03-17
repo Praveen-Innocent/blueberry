@@ -1,0 +1,20 @@
+{
+  "name": "blueberry",
+  "version": "1.0",
+  "title": "Grunt Build Boilerplate",
+  "homepage": "",
+  "author": {
+    "name": "Praveen Innocent",
+    "email": "me@praveen-innocent.com"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-htmlmin": "~0.1.3",
+    "load-grunt-tasks": "~0.6.0",
+    "grunt-browser-sync": "~1.3.2",
+    "grunt-contrib-compress": "~0.6.1"
+  }
+}
